@@ -1,0 +1,11 @@
+*{box-sizing: border-box;}
+.col{
+   width:60%;
+   display:inline-block ; 
+}
+.col1{
+    width: 10%;
+}
+.clear{
+    clear: both;
+}
